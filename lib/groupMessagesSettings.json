@@ -1,0 +1,46 @@
+{
+  "welcome": {
+    "120363387328956128@g.us": {
+      "enabled": true,
+      "message": "Hello {user}, welcome to {group}! Enjoy your stay!"
+    },
+    "120363308105749291@g.us": {
+      "enabled": true,
+      "message": "Welcome {user} to {group}! We're glad to have you here."
+    },
+    "120363393335385750@g.us": {
+      "enabled": true,
+      "message": "Welcome {user} to {group}! We're glad to have you here."
+    },
+    "120363373418396948@g.us": {
+      "enabled": true,
+      "message": "Welcome {user} to {group}! We're glad to have you here."
+    },
+    "120363406513347709@g.us": {
+      "enabled": true,
+      "message": "Welcome {user} to {group}! We're glad to have you here."
+    },
+    "120363359381985456@g.us": {
+      "enabled": true,
+      "message": "Welcome {user} to {group}! We're glad to have you here."
+    }
+  },
+  "goodbye": {
+    "120363387328956128@g.us": {
+      "enabled": true,
+      "message": "goodbye {user} from *ʀɪᴢᴢʟᴇʀs ᴇᴛ ᴄᴀᴛғɪsʜᴇʀs™* 🌍 🤡🎭\nThanks for your time here and for also creating space for reason people to join 🤡"
+    },
+    "120363308105749291@g.us": {
+      "enabled": false,
+      "message": ""
+    },
+    "120363393335385750@g.us": {
+      "enabled": false,
+      "message": ""
+    },
+    "120363406513347709@g.us": {
+      "enabled": true,
+      "message": "Goodbye {user}. We'll miss you in {group}."
+    }
+  }
+}
